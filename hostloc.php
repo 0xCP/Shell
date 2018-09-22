@@ -1,9 +1,8 @@
 
-
 <?php
 
-$username = "我是大傻瓜";  //LOC账户
-$password = "qwertyuio";//LOC密码
+$username = "USERNAME";  //LOC账户
+$password = "PASSWORD";//LOC密码
 
 
 //*******************以下不用修改*******************
