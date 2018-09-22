@@ -118,7 +118,7 @@ $result = LookupDomain($domain);
 
 <body>
  <center> <div class="page-header">
-  <h1>在线域名Whois查询<small>by sunny</small></h1>
+  <h1>在线域名Whois查询<small>By Cyril</small></h1>
 </div></center>
 <form action="<?php $_SERVER['PHP_SELF'];?>">
   <div class="row"> <div class="col-lg-6 col-lg-offset-3">
