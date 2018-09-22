@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>百度贴吧一键签到 by sunny</title>
+<title>百度贴吧一键签到 By Cyril</title>
 </head>
 <body>
 <?php
