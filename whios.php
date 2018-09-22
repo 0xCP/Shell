@@ -1,5 +1,5 @@
 <?php
-$url = $_GET['domain'];
+error_reporting(E_ALL^E_NOTICE);$url = $_GET['domain'];
 	if(substr($url,0,7)=="http://"){
 		$url = substr($url,7,99);
 	}else{
