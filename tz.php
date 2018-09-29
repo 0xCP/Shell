@@ -5,7 +5,7 @@
 /* 程序开发: Yahei.Net
 /* 联系方式: info@Yahei.net
 /* Date: 1970-01-01 / 2012-07-08
-/* 968行修改网址
+/* 969行修改网址
 /* ---------------------------------------------------- */
 /* 使用条款:
 /* 1.该软件免费使用.
@@ -966,7 +966,7 @@ if($sysInfo['swapTotal']>0)
       <svg viewBox="0 0 2000 300">
         <symbol id="s-text">
           <text text-anchor="middle" x="50%" y="60%" class="text--line">
-www.iilk.net          </text>
+www.1iy.net          </text>
         </symbol>
         
         <g class="g-ants">
