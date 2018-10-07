@@ -27,7 +27,7 @@ lnmp1.4及以下使用，创建证书会失败。
 使用方法
 
 ```
-wget https://soft.zzy.ink/Shell/lnmp
+wget https://zzy.ink/Shell/lnmp
 bash lnmp proxy add
 ```
 
