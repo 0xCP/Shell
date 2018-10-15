@@ -6,12 +6,6 @@ Hostloc 手动刷分源码
 
 Hostloc 自动刷分源码，放到宝塔面板计划任务，添加访问Url，可以自动运行
 
-# whios
-
-It run as a php programme but only use a few line of code It can help you to seache the Whois information
-
-这些接口都是网上找的，主流域名基本都能查。随便写的，看到loc大佬们都玩开源，现在就发出来吧。
-
 # tz
 
 精简版雅黑探针
