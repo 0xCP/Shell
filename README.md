@@ -34,4 +34,4 @@ chmod +x lnmp && mv lnmp /bin/lnmp
 ```
 基本命令和lnmp vhost add 差不多
 
-![lnmp](https://gitlab.com/iyk/shell2/raw/master/img/lnmp.jpg)
+![lnmp](https://raw.githubusercontent.com/ikym/shell/master/img/lnmp.jpg?token=AYYxL1mbU8MpbEWLYGMNIzimZNFTmz_Fks5bzvkiwA%3D%3D)
