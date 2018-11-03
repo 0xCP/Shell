@@ -966,7 +966,7 @@ if($sysInfo['swapTotal']>0)
       <svg viewBox="0 0 2000 300">
         <symbol id="s-text">
           <text text-anchor="middle" x="50%" y="60%" class="text--line">
-www.1iy.net          </text>
+www.mliy.net          </text>
         </symbol>
         
         <g class="g-ants">
