@@ -966,8 +966,8 @@ if($sysInfo['swapTotal']>0)
       <svg viewBox="0 0 2000 300">
         <symbol id="s-text">
           <text text-anchor="middle" x="50%" y="60%" class="text--line">
-www.mliy.net          </text>
-        </symbol>
+           愿你 一切遂心         
+          </text>
         
         <g class="g-ants">
           <use xlink:href="#s-text" class="text-copy"></use>     
