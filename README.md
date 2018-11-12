@@ -17,7 +17,7 @@ lnmp1.4及以下使用，创建证书会失败。
 使用方法
 
 ```
-wget https://i.mlii.me/Shell/lnmp
+wget https://i.lia.im/Shell/lnmp
 bash lnmp proxy add
 ```
 
