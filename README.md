@@ -18,3 +18,7 @@ Lia.im域名展示页
 # oneinstack.html
 
 Oneinstack 原版主页
+
+# 四合一图床.html
+
+支持 百度图床,新浪图床,360图床,搜狗图床 同时上传
