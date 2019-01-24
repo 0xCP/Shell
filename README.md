@@ -33,4 +33,4 @@ bbr.sh
 ======
 
 - Description: Auto install latest kernel for TCP BBR
-- Intro: https://teddysun.com/489.html
+- Intro: https://www.mliy.net/51.html
