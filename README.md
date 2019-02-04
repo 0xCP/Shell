@@ -28,9 +28,3 @@ Oneinstack 原版主页
 ======
 
 支持 百度图床,新浪图床,360图床,搜狗图床 同时上传
-
-bench.sh
-======
-
-- Description: Display various system information of the current test;
-- Intro: http://www.mlio.net/VPS-Test.html
