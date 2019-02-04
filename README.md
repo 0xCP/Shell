@@ -29,8 +29,8 @@ Oneinstack 原版主页
 
 支持 百度图床,新浪图床,360图床,搜狗图床 同时上传
 
-bbr.sh
+bench.sh
 ======
 
-- Description: Auto install latest kernel for TCP BBR
-- Intro: https://www.mliy.net/51.html
+- Description: Display various system information of the current test;
+- Intro: http://www.mlio.net/VPS-Test.html
