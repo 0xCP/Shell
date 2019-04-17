@@ -9,11 +9,6 @@ prober.php
   
 处停止加载的BUG.
 
-prober1.php
-======
-
-雅黑二次修改探针
-
 index.html
 ======
 
@@ -23,8 +18,3 @@ oneinstack.html
 ======
 
 Oneinstack 原版主页
-
-四合一图床.html
-======
-
-支持 百度图床,新浪图床,360图床,搜狗图床 同时上传
